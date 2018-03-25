@@ -1,5 +1,5 @@
 Ideas
 -----
 
-1. House Inventory Management APP
-2. Sample project to understand cloud app
+1. House Inventory Management application
+2. Sample project to understand cloud application
