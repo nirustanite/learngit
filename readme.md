@@ -7,7 +7,7 @@ I am another contributor.
 
 Now we have to colloborate and find ideas for project.
 
-Added partha as reviewer
+learning about pull request in github
 
 Contributors
 ------------
