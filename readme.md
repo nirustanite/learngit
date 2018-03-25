@@ -7,7 +7,7 @@ I am another contributor.
 
 Now we have to colloborate and find ideas for project.
 
-i am working up updating read me
+Added partha as reviewer
 
 Contributors
 ------------
